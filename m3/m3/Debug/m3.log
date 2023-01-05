@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\mmm\m3\m3\Source.cpp(68,18): warning C4244: =: преобразование "long" в "char", возможна потеря данных
+C:\mmm\m3\m3\Source.cpp(86,18): warning C4244: =: преобразование "long" в "char", возможна потеря данных
+  m3.vcxproj -> C:\mmm\m3\Debug\m3.exe
